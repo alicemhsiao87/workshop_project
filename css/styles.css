@@ -1,0 +1,44 @@
+h1 {
+  color: #5179ba;
+}
+
+h3 {
+  color: #5179ba;
+}
+
+a:link {
+  color: hotpink;
+}
+
+a:visited {
+  color: purple;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.list-item {
+  font-family: monospace;
+}
+
+#css-item {
+  color: #5179ba;
+}
+
+#goal-list {
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
+
+#picture {
+  width: 50%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
+
+#css-item2 {
+  color: hotpink;
+}
